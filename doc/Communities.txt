@@ -1,0 +1,182 @@
+• Identification of teams or projects addressing specific tasks or
+activities within the community. If possible, create a graph depicting
+the relationships among different groups.
+ 
+  - Community: 
+    * Composed of thousands of people.
+    * Nobody controls individuals, except themselves: "Each scratching their own itches"
+      They have their families, their interests, etc.
+      Challenging for leadership.
+    * For previous reason: "Some emphasis on consensus building".
+      However, leadership wants to focus efforts. 
+      For example: Just 1 CCK (Content Construction Kit). Joomla has several.
+    * Collaboration over competition. 
+      Sometimes competition is good, but focus on collaboration over continuous competition.
+    * Contribution: it is something very different from only source code programmers:
+      - User experience testers
+      - Documentation
+      - Support
+    * Do-Ocracy:
+      - Price of admission to be a "big guy": Lot of time must be dedicated.
+        In the end, no more people "acts": In 2011, some statistics threw that, from the community:
+        * 99.3 % download software
+        * 0.32 % register an account
+        * 0.05 % do something with account: For Drupal to success, people on this group is needed.
+          For this reason, this kind of people have a stronger voice. 
+          Also people who make big things for project visibility and evolveness.
+    * Heterogeneous organization: Somehow, "a Bazaar of Cathedrals and Bazaars":
+      * Drupal Core:
+        - Project leader: 
+        - Drupal 6 maintainer:
+        - Drupal 7 maintainer:
+        - Drupal 8 maintainer:
+        They are SLACKERS. Help on death-lock issues, take some decissions, etc. 
+        But real contribution is from thousands of contributors around the world.
+        Apart from that, the "official" scheme is on MAINTAINERS.txt: 
+        -  A simple file with "people responsible of":
+           https://api.drupal.org/api/drupal/MAINTAINERS.txt
+           * Branch maintainers: "Project leader as branch maintainers"
+             Release based parts of the project.
+           * Component maintainers: Ajax, Cache, Database, etc. 
+             Architecture based parts of the project.
+           * Topic coordinators: Accesibility, Documentation, Security, Translations, User experience.
+             Visibility based.
+           * Module maintainers: Contact module, Dashboard module, Search module, etc. 
+             Functionality based parts of the project.
+           * Theme maintainers: Bartik theme, Garland theme, etc. 
+             Visualization based parts of the project.
+           For example:
+            * Usability team: Dedicated to the ease of use issues:
+            - Frontend vs. Backend (User view vs. Administration)
+            - D7UX : Drupal 7 User experience: New models vs Drupal 6
+              * The "toolbar" model
+              * Contextual links model
+              * Backend redesigning
+            * Taxonomy
+            * Usability testing
+            * High Performance
+            * Theme Development 
+            * Usability
+            * Services
+            * Social Networking
+            ... (flexible). You can create your group: http://groups.drupal.org
+
+      * Drupal 8 initiative: Somehow hierarchy based on new necessities:
+        - Config Management
+        - HTML5
+        - Web Services
+        - Design
+        - Multilingual
+        - Mobile
+        - etc.etc
+
+      * Drupal Contributors: 12000+ contributors
+        - Very flat (no hierarchy), just, somehow, MAINTANERS.txt 
+          New maintainers can appear, etc. Very dynamic
+
+      * Drupal Association: Non-profit Community Building Association.
+        - The Drupal Association is an organization dedicated to helping the open-source Drupal project with:
+          * Funding 
+          * Infrastructure
+          * Education
+          * Promotion
+          * Distribution 
+          * Online collaboration at Drupal.org
+        - Board of directors: By election
+        - Executive Director: Make sure Commities happen:
+          * Commitees: Infrastructure, Event, Governance, 
+        - Key thing: 
+          * Do not control CORE. 
+          * Do not control Contrib.
+        - They ensure:
+          * DrupalCon happens.
+          * Infrastructure and servers are on.
+          * Licensing issues.
+        - Association staff come from:
+          * memberships
+          * supporting partners
+          * sponsorships, donations, and volunteers
+           
+      * Drupal.org: Mixed and mingled. At least, is documented.
+        - Sysadmins
+        - Issue Tracking 
+        - Downloads
+        - Groups
+        - Documentation
+        - Git
+        - QA (Quality Assurance)
+        - CI (Jenkins)
+        - Security
+        - DrupalCon Websites
+        - etc. etc. etc.
+
+    * Interaction:
+      - "Core Office Hours": Mentorship.
+        Tuesday: 12.am - 2.pm (Eastern)
+        Wednesday: 12.am - 2.pm (Eastern)
+
+    * Change proposal: 
+      1) Propose your idea (IRC, Twitter, groups.drupal.org, Drupal Planet, etc).
+      2) Propose a patch
+      3) The action: Normally occurs on the Issue queue. 
+
+    * Bug reporting and fixing: Anyone can post bugs.
+      1) User: Bug posting to Bug issue queue
+      2) Programmer: Fix -> Needs Review
+      3) Tester: Test: -> Needs work
+      4) Programmer: Fix2 -> Needs Review
+      5) Tester2: -> Needs work
+
+    * Global community, all over the world. Obviously, great concentration
+    on:
+    - United States 
+    - Western Europe 
+    ... but also, with some additional places with high amount of contributors, (i.e.: India).
+
+• Social interaction: Does this community have a reference conference?
+When does it takes place? What are the main goals and activities?
+
+  - Reference Conference: DrupalCon
+
+    When? Normally twiche yearly, one in Europe, one in United States:
+    2013 - Portland, Prague, Sydney (exception)
+    2014 - Austin, Amsterdan
+
+    First one: 2005. Belgium. Around 70 people.
+    2011: 3000 people. Gives idea on how the community has been growing up. 
+
+    Main Goals and Activities:
+    - Grow and strengthen the community
+    - Accelerate the project
+    - Promote Drupal - Marketing platform
+    - Generate revenue for community programs
+    - Have success, in terms of:
+      * attendees, and CxO attendees  
+      * students in training
+      * speakers (inside and outside Drupal Community)
+      * after hours events (community building)
+    - Of course, Revenues. In order to community reinvestment.
+      Example from Portland DrupalCon:
+      * Ticket Revenue : $ 1,368,477.00
+      * Sponsor Revenue: $ 720,000.00
+      * Expenses       : $ -1,100,000.00)
+                       ------------------
+      * Net Profit     : $ 970,000.00
+
+  - Other social interactions:
+    * User group meetups: Social and informal meetups:
+      - Having a beer
+      - Talks with small audiences
+      - Changing impressions on a restaurant
+      - etc
+    * Drupal Camps: 
+      - All over the world.
+      - Up to date, composed of 75 to 300 people, more or less.
+      - Like "mini DrupalCon"
+    * Code Sprints: 
+      - What is a code sprint?
+      - A code sprint is getting developers for a set amount of time – usually one to two days – and just writing code. That's it. You’re not teaching anything. Participants will learn from others as they go, but the focus is not on instruction. The goal is to create working software. Code sprints are also sometimes called hackathons or codeathons.
+
+REFERENCES:
+- Angela Byron, Drupal 7 maintainer: Drupal Community Demystified
+- Stephanie Torres, Community Program Manager:
